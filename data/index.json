@@ -27,21 +27,21 @@
             "id": 1,
             "year": 2015,
             "place": "Sans Souci Girls' High School",
-            "type": "Matric",
+            "type": "Matric"
         },
         {
             "id": 2,
             "year": 2019,
             "description": "Introduction to Java",
             "place": "UNISA",
-            "type": "certificate",
+            "type": "certificate"
         },
         {
             "id": 3,
             "year": 2021,
             "description": "BSc Physics and Mathematics ",
             "place": "UNISA",
-            "type": "In progress",
+            "type": "In progress"
         }
     ],
     "skills": [
